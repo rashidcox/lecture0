@@ -11,6 +11,7 @@ class User{
 			name = a;
 			email = b;
 			password = c;
+			passworld liet;
 		}
 };
 
